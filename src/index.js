@@ -335,11 +335,9 @@ function renderPage(info) {
 
         h1 {
             margin: 0;
-
-            font-size: clamp(2.2rem, 8vw, 4.2rem);
-            line-height: 1;
-            letter-spacing: -0.045em;
-            font-weight: 700;
+			font-size: 30px;
+			font-weight: 680;
+			letter-spacing: -.035em;
         }
 
         .lead {
